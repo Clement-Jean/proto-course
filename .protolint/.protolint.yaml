@@ -1,0 +1,3 @@
+lint:
+  rules:
+    all_default: true
