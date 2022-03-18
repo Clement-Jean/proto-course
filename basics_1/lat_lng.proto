@@ -1,6 +1,0 @@
-syntax = "proto3";
-
-message LatLng {
-  double lat = 1;
-  double lng = 2;
-}
