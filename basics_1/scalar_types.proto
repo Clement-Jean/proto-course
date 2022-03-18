@@ -1,0 +1,24 @@
+syntax = "proto3";
+
+message ScalarTypes {
+  // INTEGERS
+  int32       one = 1;
+  int64       two = 2;
+  uint32      three = 3;
+  uint64      four = 4;
+  sint32      five = 5;
+  sint64      six = 6;
+  fixed32     seven = 7;
+  fixed64     eight = 8;
+  sfixed32    nine = 9;
+  sfixed64    ten = 10;
+
+  // FLOATING POINTS
+  double      eleven = 11;
+  float       twelve = 12;
+
+  // OTHERS
+  bool        thirteen = 13;
+  bytes       fourteen = 14;
+  string      fifteen = 15;
+}

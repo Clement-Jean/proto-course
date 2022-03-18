@@ -1,0 +1,23 @@
+syntax = "proto3";
+
+enum Month {
+  MONTH_UNSPECIFIED = 0;
+  MONTH_JAN = 1;
+  MONTH_FEB = 2;
+  MONTH_MAR = 3;
+  MONTH_APR = 4;
+  MONTH_MAY = 5;
+  MONTH_JUN = 6;
+  MONTH_JUL = 7;
+  MONTH_AUG = 8;
+  MONTH_SEP = 9;
+  MONTH_OCT = 10;
+  MONTH_NOV = 11;
+  MONTH_DEC = 12;
+}
+
+message Date {
+  uint32 year = 1;
+  Month month = 2;
+  uint32 day = 3;
+}
