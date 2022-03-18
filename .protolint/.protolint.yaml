@@ -1,3 +1,11 @@
 lint:
+  ignores:
+    - id: MESSAGES_HAVE_COMMENT
+    - id: SERVICES_HAVE_COMMENT
+    - id: RPCS_HAVE_COMMENT
+    - id: FIELDS_HAVE_COMMENT
+    - id: ENUMS_HAVE_COMMENT
+    - id: ENUM_FIELDS_HAVE_COMMENT
+    - id: FILE_HAS_COMMENT
   rules:
     all_default: true
