@@ -1,6 +1,6 @@
 # proto-course
 
-[![Lint protobuf](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml)
+[![Lint protobuf](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml) ![Udemy](.github/badges/udemy.svg)
 
 ## Other Repositories
 
