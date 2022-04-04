@@ -1,5 +1,7 @@
 # proto-course
 
+[![Lint protobuf](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml)
+
 ## Other Repositories
 
 - [Java](https://github.com/Clement-Jean/proto-java-course)
