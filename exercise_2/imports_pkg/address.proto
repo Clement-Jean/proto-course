@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+import "building.proto";
+import "city.proto";
+import "street.proto";
+
+message Address {
+  city.City city = 1;
+  street.Street street = 2;
+  building.Building building = 3;
+}
