@@ -2,7 +2,7 @@
 
 [![Lint protobuf](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml/badge.svg)](https://github.com/Clement-Jean/proto-course/actions/workflows/lint.yaml) ![Udemy](.github/badges/udemy.svg)
 
-## COUPON: `START_SEP_22`
+## COUPON: `START_OCT_22`
 
 ## Other Repositories
 
